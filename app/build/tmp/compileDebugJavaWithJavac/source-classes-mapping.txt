@@ -1,0 +1,34 @@
+com/example/bottomnavigation/databinding/FragmentSettingsBinding.java
+ com.example.bottomnavigation.databinding.FragmentSettingsBinding
+com/example/bottomnavigation/BuildConfig.java
+ com.example.bottomnavigation.BuildConfig
+com/example/bottomnavigation/SplashActivity.java
+ com.example.bottomnavigation.SplashActivity
+ com.example.bottomnavigation.SplashActivity$1
+com/example/bottomnavigation/databinding/ListItemBinding.java
+ com.example.bottomnavigation.databinding.ListItemBinding
+com/example/bottomnavigation/databinding/ActivitySplashBinding.java
+ com.example.bottomnavigation.databinding.ActivitySplashBinding
+com/example/bottomnavigation/SearchFragment.java
+ com.example.bottomnavigation.SearchFragment
+com/example/bottomnavigation/databinding/FragmentHome2Binding.java
+ com.example.bottomnavigation.databinding.FragmentHome2Binding
+com/example/bottomnavigation/databinding/FragmentSearchBinding.java
+ com.example.bottomnavigation.databinding.FragmentSearchBinding
+com/example/bottomnavigation/databinding/ActivityMainBinding.java
+ com.example.bottomnavigation.databinding.ActivityMainBinding
+com/example/bottomnavigation/SettingsFragment.java
+ com.example.bottomnavigation.SettingsFragment
+com/example/bottomnavigation/HomeFragment.java
+ com.example.bottomnavigation.HomeFragment
+com/example/bottomnavigation/CartFragment.java
+ com.example.bottomnavigation.CartFragment
+com/example/bottomnavigation/MainActivity.java
+ com.example.bottomnavigation.MainActivity
+ com.example.bottomnavigation.MainActivity$1
+com/example/bottomnavigation/databinding/FragmentCartBinding.java
+ com.example.bottomnavigation.databinding.FragmentCartBinding
+com/example/bottomnavigation/databinding/FragmentHomeBinding.java
+ com.example.bottomnavigation.databinding.FragmentHomeBinding
+com/example/bottomnavigation/databinding/ListViewBinding.java
+ com.example.bottomnavigation.databinding.ListViewBinding

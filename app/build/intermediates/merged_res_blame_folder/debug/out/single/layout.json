@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_search.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_view.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/list_view.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cart.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_settings.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home2.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/fragment_home2.xml"
+    },
+    {
+        "merged": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item.xml",
+        "source": "/Users/AK007/AndroidStudioProjects/CustomNavBar-master/app/src/main/res/layout/list_item.xml"
+    }
+]
